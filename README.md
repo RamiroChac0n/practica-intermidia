@@ -1,1 +1,1 @@
-# practica-intermidia
+# practica-intermedia
